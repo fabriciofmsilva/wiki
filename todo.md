@@ -1,3 +1,36 @@
+- HTML (writing clean, semantic markup)
+- CSS (Modular, scalable)
+- CSS methodologies (BEM, SMACSS, OOCSS)
+- CSS preprocessors (something like LESS, SCSS, PostCSS)
+- Modern CSS (Flexbox, Grid)
+- JS
+- Modern JS (ES6, Typescript)
+- JS frameworks (Angular, React, Vue [insert latest here]
+- JS methodologies (Functional programming, OOP)
+- JS libraries (Immutable, Ramda, Lodash)
+- Responsive Design principals
+- Testing (TDD)
+- Testing frameworks (Jasmine, Karma)
+- SVG
+- WebGL
+- Animation techniques
+- Accessibility
+- Usability
+- Performance
+- Build tools (Grunt, Gulp, NPM Scripts)
+- Asset Bundlers (WebPack, Browserify)
+- NPM ecosystem
+- Knowledge of different browser quirks
+- Agile methodologies
+- Version Control (Usually Git)
+- Visual Design fundamentals
+- Soft skills, time management
+- A basic understanding of whatever back-end language is being used
+- And on top of that you’re either dabbling with or looking towards things like:
+- Service workers
+- Progressive Web Apps (PWA)
+- Web Components
+
 - Test Driven Development – TDD
 - Piramide de testes
 - Testes de unidade (Unit tests)
