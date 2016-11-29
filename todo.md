@@ -1,0 +1,20 @@
+- Test Driven Development – TDD
+- Piramide de testes
+- Testes de unidade (Unit tests)
+- Testes de integração (Integration tests)
+- Teste de integração de contrato (Integration contract tests)
+  - Consumer contract
+  - Provider contract
+- Stubs
+- Mocks
+- Spys
+- Test runners
+  - Mocha
+  - Karma
+- Bibliotecas de Assert
+  - chai
+  - assert
+- Bibliotecas de suporte
+  - SinonJS
+  - TestDoubleJS
+  - Supertest
